@@ -1,0 +1,15 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+h1{
+    font-size: 50px;
+}
+.highlight{
+    color: orange;
+}
+.text-h{
+    width: 40%;
+    float: left;
+    margin-left:5%
+}
